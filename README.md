@@ -4,7 +4,7 @@
 ![CSS3](https://img.shields.io/badge/CSS-3-green?style=for-the-badge)
 ![HacktoberFest](https://img.shields.io/badge/HacktoberFest-2k19-blue?style=for-the-badge)
 
-Visit [Google Fonts for more]('fonts.google.com')
+Visit [Google Fonts for more](https://fonts.google.com)
 
 Use google fonts locally for various frontend development projects.   
 A good package to use in your electronJS and other native html/javascript projects.
