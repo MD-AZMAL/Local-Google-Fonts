@@ -121,3 +121,29 @@
     font-display: swap;
     src: url(../webfonts/Libre-Baskerville/LibreBaskerville-Italic.ttf) format('truetype');
 }
+
+/* 
+#
+#   Lustiana
+#
+*/
+
+/* Regular */
+
+@font-face {
+    font-family: 'Lusitana';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../webfonts/Lusitana/Lusitana-Regular.ttf) format('truetype');
+}
+
+/* Bold */
+
+@font-face {
+    font-family: 'Lusitana';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(../webfonts/Lusitana/Lusitana-Bold.ttf) format('truetype');
+}
