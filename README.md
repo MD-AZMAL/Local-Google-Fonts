@@ -1,4 +1,10 @@
 # LOCAL GOOGLE FONTS
+![License](https://img.shields.io/github/license/md-azmal/Local-Google-Fonts?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS-3-green?style=for-the-badge)
+![HacktoberFest](https://img.shields.io/badge/HacktoberFest-2k19-blue?style=for-the-badge)
+
+Visit [Google Fonts for more]('fonts.google.com')
 
 Use google fonts locally for various frontend development projects.   
 A good package to use in your electronJS and other native html/javascript projects.
