@@ -102,3 +102,22 @@
     src: url(../webfonts/Libre-Baskerville/LibreBaskerville-Regular.ttf) format('truetype');
 }
 
+/* Bold */
+
+@font-face {
+    font-family: 'Libre Baskerville';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(../webfonts/Libre-Baskerville/LibreBaskerville-Bold.ttf) format('truetype');
+}
+
+/* Italic */
+
+@font-face {
+    font-family: 'Libre Baskerville';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../webfonts/Libre-Baskerville/LibreBaskerville-Italic.ttf) format('truetype');
+}
