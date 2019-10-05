@@ -772,3 +772,48 @@
     font-display: swap;
     src: url(../webfonts/Source-Sans-Pro/SourceSansPro-BlackItalic.ttf) format('truetype');
 }
+
+/* 
+#
+#   Lora
+#
+*/
+
+/* Regular */
+
+@font-face {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../webfonts/Lora/Lora-Regular.ttf) format('truetype');
+}
+
+/* Italic */
+
+@font-face {
+    font-family: 'Lora';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../webfonts/Lora/Lora-Italic.ttf) format('truetype');
+}
+
+
+/* Bold */
+
+@font-face {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(../webfonts/Lora/Lora-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Lora';
+    font-style: italic;
+    font-weight: 900;
+    font-display: swap;
+    src: url(../webfonts/Lora/Lora-BoldItalic.ttf) format('truetype');
+}
