@@ -420,7 +420,7 @@
     font-style: normal;
     font-weight: 800;
     font-display: swap;
-    src: url(../webfonts/Nunito/Nunito-Black.ttf) format('truetype');
+    src: url(../webfonts/Nunito/Nunito-ExtraBold.ttf) format('truetype');
 }
 
 @font-face {
@@ -428,7 +428,7 @@
     font-style: italic;
     font-weight: 800;
     font-display: swap;
-    src: url(../webfonts/Nunito/Nunito-BlackItalic.ttf) format('truetype');
+    src: url(../webfonts/Nunito/Nunito-ExtraBoldItalic.ttf) format('truetype');
 }
 
 /* Black */
@@ -534,7 +534,7 @@
     font-style: normal;
     font-weight: 800;
     font-display: swap;
-    src: url(../webfonts/Open-Sans/OpenSans-Black.ttf) format('truetype');
+    src: url(../webfonts/Open-Sans/OpenSans-ExtraBold.ttf) format('truetype');
 }
 
 @font-face {
@@ -542,5 +542,5 @@
     font-style: italic;
     font-weight: 800;
     font-display: swap;
-    src: url(../webfonts/Open-Sans/OpenSans-BlackItalic.ttf) format('truetype');
+    src: url(../webfonts/Open-Sans/OpenSans-ExtraBoldItalic.ttf) format('truetype');
 }
