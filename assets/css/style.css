@@ -1,47 +1,69 @@
 body {
-    font-size: 28px;
+  font-size: 28px;
+  background-image: linear-gradient(
+    to right bottom,
+    rgba(15, 219, 168, 0.808),
+    rgb(203, 230, 84)
+  );
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+body > * {
+  height: 80px;
+  width: 50%;
+  border: 1px solid #000;
+  text-align: center;
+  padding-top: 10px;
+}
+body > *:hover {
+  box-shadow: 6px 3px 8px 5px rgb(236, 153, 29);
+  color: rgb(245, 41, 119);
+  cursor: pointer;
 }
 
 .f1 {
-    font-family: 'Abril Fatface';
+  font-family: "Abril Fatface";
 }
 
 .f2 {
-    font-family: 'Armata';
+  font-family: "Armata";
 }
 
 .f3 {
-    font-family: 'Hind';
+  font-family: "Hind";
 }
 
 .f4 {
-    font-family: 'Libre Baskerville';
+  font-family: "Libre Baskerville";
 }
 
 .f5 {
-    font-family: 'Lusitana';
+  font-family: "Lusitana";
 }
 
 .f6 {
-    font-family: 'Montserrat';
+  font-family: "Montserrat";
 }
 
 .f7 {
-    font-family: 'Nunito';
+  font-family: "Nunito";
 }
 
 .f8 {
-    font-family: 'Open Sans';
+  font-family: "Open Sans";
 }
 
 .f9 {
-    font-family: 'Roboto';
+  font-family: "Roboto";
 }
 
 .f10 {
-    font-family: 'Source Sans Pro'
+  font-family: "Source Sans Pro";
 }
 
 footer {
-    font-size: 16px;
+  font-size: 16px;
+  width: 100%;
 }
