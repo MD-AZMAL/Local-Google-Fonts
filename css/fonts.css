@@ -1,0 +1,104 @@
+/* 
+#
+#   Abril Fatface
+#
+*/
+
+/* Regular */
+
+@font-face {
+    font-family: 'Abril Fatface';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../webfonts/Abril-Fatface/AbrilFatface-Regular.ttf) format('truetype');
+}
+
+/* 
+#
+#   Armata
+#
+*/
+
+/* Regular */
+
+@font-face {
+    font-family: 'Armata';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../webfonts/Armata/Armata-Regular.ttf) format('truetype');
+}
+
+/* 
+#
+#   Hind
+#
+*/
+
+/* Regular */
+
+@font-face {
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../webfonts/Hind/Hind-Regular.ttf) format('truetype');
+}
+
+/* Light */
+
+@font-face {
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/Hind/Hind-Light.ttf) format('truetype');
+}
+
+/* Medium */
+
+@font-face {
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(../webfonts/Hind/Hind-Medium.ttf) format('truetype');
+}
+
+/* Semi Bold */
+
+@font-face {
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(../webfonts/Hind/Hind-SemiBold.ttf) format('truetype');
+}
+
+/* Bold */
+
+@font-face {
+    font-family: 'Hind';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(../webfonts/Hind/Hind-Bold.ttf) format('truetype');
+}
+
+/* 
+#
+#   Libre Baskerville
+#
+*/
+
+/* Regular */
+
+@font-face {
+    font-family: 'Libre Baskerville';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../webfonts/Libre-Baskerville/LibreBaskerville-Regular.ttf) format('truetype');
+}
+
