@@ -1,6 +1,7 @@
 # LOCAL GOOGLE FONTS
 
 Use google fonts locally for various frontend development projects.   
+A good package to use in your electronJS and other native html/javascript projects.
 
 ## Instructions
 
@@ -85,6 +86,7 @@ LOCAL GOOGLE FONTS
 
 ```
 * In style.css file set the paragraph to use the new font.
+* Update the list of available fonts in readme.
 
 ## Support this Project
 * Feel free to add new google gonts to the project.
