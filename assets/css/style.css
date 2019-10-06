@@ -15,30 +15,34 @@ body {
 }
 
 .f4 {
-    font-family: 'Libre Baskerville';
+    font-family: 'Karla';
 }
 
 .f5 {
-    font-family: 'Lusitana';
+    font-family: 'Libre Baskerville';
 }
 
 .f6 {
-    font-family: 'Montserrat';
+    font-family: 'Lusitana';
 }
 
 .f7 {
-    font-family: 'Nunito';
+    font-family: 'Montserrat';
 }
 
 .f8 {
-    font-family: 'Open Sans';
+    font-family: 'Nunito';
 }
 
 .f9 {
-    font-family: 'Roboto';
+    font-family: 'Open Sans';
 }
 
 .f10 {
+    font-family: 'Roboto';
+}
+
+.f11 {
     font-family: 'Source Sans Pro'
 }
 

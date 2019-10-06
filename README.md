@@ -76,6 +76,7 @@ LOCAL GOOGLE FONTS
 * Abrial fatface
 * Armata
 * Hind
+* Karla
 * Libre-Baskerville
 * Lusitana
 * Montserrat

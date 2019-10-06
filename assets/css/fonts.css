@@ -88,6 +88,42 @@
 
 /* 
 #
+#   Karla
+#
+*/
+
+/* Regular */
+
+
+@font-face {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../webfonts/Karla/KarlaRegular.ttf) format('truetype');
+}
+
+/* Bold */
+
+@font-face {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(../webfonts/Karla/KarlaBold.ttf) format('truetype');
+}
+
+/* Italic */
+
+@font-face {
+    font-family: 'Karla';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../webfonts/Karla/Karla-ItalicRegular.ttf) format('truetype');
+}
+/* 
+#
 #   Libre Baskerville
 #
 */
