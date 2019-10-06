@@ -42,6 +42,68 @@ body {
     font-family: 'Source Sans Pro'
 }
 
+.f11-thin {
+    font-family: 'Lato';
+    font-weight: 100;
+}
+
+.f11-thin-italic {
+    font-family: 'Lato';
+    font-weight: 100;
+    font-style: italic;
+}
+
+.f11-light{
+    font-family: 'Lato';
+    font-weight: 300;
+}
+
+.f11-light-italic {
+    font-family: 'Lato';
+    font-weight: 300;
+    font-style: italic;
+}
+
+.f11-regular {
+    font-family: 'Lato';
+    font-weight: 400;
+}
+
+.f11-regular-italic {
+    font-family: 'Lato';
+    font-style: italic;
+}
+
+.f11-bold {
+    font-family: 'Lato';
+    font-weight: 700;
+}
+
+.f11-bold-italic {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-style: italic;
+}
+
+.f11-black {
+    font-family: 'Lato';
+    font-weight: 900;
+}
+
+.f11-black-italic {
+    font-family: 'Lato';
+    font-weight: 900;
+    font-style: italic;
+}
+
+.font-list {
+    font-size: 24px;
+}
+
+.sublist {
+    font-size: 18px;
+}
+
 footer {
     font-size: 16px;
 }
