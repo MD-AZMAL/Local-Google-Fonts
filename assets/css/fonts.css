@@ -772,3 +772,104 @@
     font-display: swap;
     src: url(../webfonts/Source-Sans-Pro/SourceSansPro-BlackItalic.ttf) format('truetype');
 }
+
+/* 
+#
+#   Lato
+#
+*/
+
+/* Thin */
+
+@font-face {
+    font-family: 'Lato';
+    font-weight: 100;
+    font-display:swap;
+    src: url(../webfonts/Lato/Lato-Thin.ttf) format('truetype');
+}
+
+/* Thin Italic */
+
+@font-face {
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 100;
+    font-display:swap;
+    src: url(../webfonts/Lato/Lato-ThinItalic.ttf) format('truetype');
+}
+
+/* Light */
+
+@font-face {
+    font-family: 'Lato';
+    font-weight: 300;
+    font-display:swap;
+    src: url(../webfonts/Lato/Lato-Light.ttf) format('truetype');
+}
+
+/* Light Italic */
+
+@font-face {
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 300;
+    font-display:swap;
+    src: url(../webfonts/Lato/Lato-LightItalic.ttf) format('truetype');
+}
+
+/* Regular */
+
+@font-face {
+    font-family: 'Lato';
+    font-weight: 400;
+    font-display:swap;
+    src: url(../webfonts/Lato/Lato-Regular.ttf) format('truetype');
+}
+
+/* Regular Italic */
+
+@font-face {
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 400;
+    font-display:swap;
+    src: url(../webfonts/Lato/Lato-Italic.ttf) format('truetype');
+}
+
+/* Bold */
+
+@font-face {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-display:swap;
+    src: url(../webfonts/Lato/Lato-Bold.ttf) format('truetype');
+}
+
+/* Bold Italic */
+
+@font-face {
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 700;
+    font-display:swap;
+    src: url(../webfonts/Lato/Lato-BoldItalic.ttf) format('truetype');
+}
+
+/* Black */
+
+@font-face {
+    font-family: 'Lato';
+    font-weight: 900;
+    font-display:swap;
+    src: url(../webfonts/Lato/Lato-Black.ttf) format('truetype');
+}
+
+/* Black Italic */
+
+@font-face {
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 900;
+    font-display:swap;
+    src: url(../webfonts/Lato/Lato-BlackItalic.ttf) format('truetype');
+}
