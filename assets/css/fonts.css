@@ -772,3 +772,9 @@
     font-display: swap;
     src: url(../webfonts/Source-Sans-Pro/SourceSansPro-BlackItalic.ttf) format('truetype');
 }
+@font-face {
+  font-family: 'Marvel';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Marvel'), local('Marvel-Regular'), url(http://themes.googleusercontent.com/static/fonts/marvel/v3/qaDmg_CNIuBGdKmH4z3spA.ttf) format('truetype');
+}
