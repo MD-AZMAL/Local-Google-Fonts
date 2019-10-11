@@ -84,6 +84,7 @@ LOCAL GOOGLE FONTS
 * Roboto
 * Source-Sans-Pro
 * Marvel
+* Open Sans Condensed
 
 ## Guide to contributing
 * Maintain proper nomenclature and comment structure in fonts.css file.
