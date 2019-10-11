@@ -83,7 +83,6 @@ LOCAL GOOGLE FONTS
 * Open-Sans
 * Roboto
 * Source-Sans-Pro
-* Marvel
 
 ## Guide to contributing
 * Maintain proper nomenclature and comment structure in fonts.css file.
