@@ -116,6 +116,9 @@ body > *:hover {
     font-weight: 900;
     font-style: italic;
 }
+.f12 {
+  font-family: "Open Sans Condensed";
+}
 
 .font-list {
     font-size: 24px;
