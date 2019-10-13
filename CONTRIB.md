@@ -182,4 +182,4 @@
     src: url(../webfonts/Lato/Lato-BlackItalic.ttf) format('truetype');
 }
 ```
-* Update the list of available fonts in README.md. You can add a screenshot with your styles fonts in ``` \screenshots\screenshotFontName.png```. Use gimp for with the ```template.png``` file and the screnshot tool of firefox browser.
+* Update the list of available fonts in ```README.md```. You can add a screenshot with your styles fonts in ``` \screenshots\screenshotFontName.png```. Use gimp for with the ```template.png``` file and the screnshot tool of firefox browser.
