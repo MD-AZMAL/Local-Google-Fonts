@@ -26,14 +26,16 @@ mkdir webfonts
 
 * Download the required google font and the customisations, extract to folder and place them in webfonts directory. (Make sure to do 'extract to folder', simply extracting and copying wont work).
 
-* Include the fonts.css in your html file, above your custom stylesheet.
+* Include the ```fonts.css``` in your html file, above your custom stylesheet.
 ```html
     <html>
         <head>
             .
             .
-            <link rel="stylesheet" href="css/fonts.css">
-            <link rel="stylesheet" href="css/'YOUR-CUSTOM-CSS'.css">
+
+            <link rel="stylesheet" href="assets/css/fonts.css">
+            <link rel="stylesheet" href="assets/css/style.css">
+            <link rel="stylesheet" href="assets/css/custom.css">
             .
             .
         </head>
@@ -44,57 +46,79 @@ mkdir webfonts
     </html>
 ```
 
-* In your custom css file use the google font as instructed on fonts.google.com, below are few examples.
-```css
-.f9 {
-    font-family: 'Roboto';
-}
-
-.f10 {
-    font-family: 'Source Sans Pro'
-}
+* In your `index.html` file use the google font as instructed on fonts.google.com, below are few examples.
+```html
+<p class="f11-thin">I'm a thing text</p>
+<p class="f11-thin-italic">Im a thing italic text</p>
+<p class="f11-regular">I'm a regular text</p>
+<p class="f11-bold">I'm a bold text</p>
+<p class="f11-bold-italic">I'm a bold italic text</p>
+<p class="f11-black">I'm a black text</p>
+<p class="f11-black-italic">I'm a black italic text</p>
 ```
 
 ## Project Folder Structure
 
 ```bash
-LOCAL GOOGLE FONTS
+Local-Google-Fonts/
 ├── assets
 │   ├── css
+│   │   ├── custom.css
 │   │   ├── fonts.css
-|   |   ├── fonts.css
-│   ├── webfonts
-│   │   ├──FONT-FOLDER
-|   |________|── fonts-files.ttf
-|
-├── .gitignore   
+│   │   └── style.css
+│   └── webfonts
+│       └── Font
+│           ├── Font-BlackItalic.ttf
+│           ├── Font-Black.ttf
+│           ├── Font-BoldItalic.ttf
+│           ├── Font-Bold.ttf
+│           ├── Font-Italic.ttf
+│           ├── Font-LightItalic.ttf
+│           ├── Font-Light.ttf
+│           ├── Font-Regular.ttf
+│           ├── Font-ThinItalic.ttf
+│           └── Font-Thin.ttf
 ├── index.html
-└── README.md
+├── LICENSE
+├── README.md
+└── screenshots
+    ├── Screenshot_2019-10-13 Google Fonts.png
+    └── template.png
 ```
 
-## List of available fonts 
-* Abrial fatface
-* Armata
-* Hind
-* Libre-Baskerville
-* Lusitana
-* Montserrat
-* Nunito
-* Open-Sans
-* Roboto
-* Source-Sans-Pro
-* Lato
-* Open Sans Condensed
+## List of available fonts
+---
+#### Abrial fatface (f1)
+---
+#### Armata (f2)
+---
+#### Hind (f3)
+---
+#### Libre-Baskerville (f4)
+---
+#### Lusitana (f5)
+---
+#### Montserrat (f6)
+---
+#### Nunito (f7)
+---
+#### Open-Sans (f8)
+---
+#### Roboto (f9)
+---
+#### Source-Sans-Pro (f10)
+---
+#### Lato (f11)
+
+$\;\;\;\;\;\;$![Lato](./screenshots/screenshotLato.png)
+
+---
+#### Open Sans Condensed (f12)
+---
 
 ## Guide to contributing
-* Maintain proper nomenclature and comment structure in fonts.css file.
-* After adding the font correctly add another paragraph in the index.html file as shown below.
-```html
-    <p class="f'NUMBER-OF-FONT">Welcome to My Page : 'FONT-NAME'</p>
 
-```
-* In style.css file set the paragraph to use the new font.
-* Update the list of available fonts in readme.
+To contribute follow the following [Contribution Guide](CONTRIB.md).
 
 ## Support this Project
 * Feel free to add new google gonts to the project.
