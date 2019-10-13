@@ -110,7 +110,7 @@ Local-Google-Fonts/
 ---
 #### Lato (f11)
 
-    [Lato](./screenshots/screenshotLato.png)
+  [Lato](./screenshots/screenshotLato.png)
 
 ---
 #### Open Sans Condensed (f12)
