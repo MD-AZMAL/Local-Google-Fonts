@@ -85,6 +85,7 @@ LOCAL GOOGLE FONTS
 * Source-Sans-Pro
 * Lato
 * Open Sans Condensed
+* Poppins
 
 ## Guide to contributing
 * Maintain proper nomenclature and comment structure in fonts.css file.

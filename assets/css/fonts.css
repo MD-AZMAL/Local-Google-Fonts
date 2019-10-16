@@ -772,128 +772,96 @@
     font-display: swap;
     src: url(../webfonts/Source-Sans-Pro/SourceSansPro-BlackItalic.ttf) format('truetype');
 }
-
-/* 
+/*
 #
-#   Lato
+#   Poppins
 #
 */
 
-/* Thin */
+/*black*/
 
 @font-face {
-    font-family: 'Lato';
-    font-weight: 100;
-    font-display:swap;
-    src: url(../webfonts/Lato/Lato-Thin.ttf) format('truetype');
-}
-
-/* Thin Italic */
-
-@font-face {
-    font-family: 'Lato';
-    font-style: italic;
-    font-weight: 100;
-    font-display:swap;
-    src: url(../webfonts/Lato/Lato-ThinItalic.ttf) format('truetype');
-}
-
-/* Light */
-
-@font-face {
-    font-family: 'Lato';
-    font-weight: 300;
-    font-display:swap;
-    src: url(../webfonts/Lato/Lato-Light.ttf) format('truetype');
-}
-
-/* Light Italic */
-
-@font-face {
-    font-family: 'Lato';
-    font-style: italic;
-    font-weight: 300;
-    font-display:swap;
-    src: url(../webfonts/Lato/Lato-LightItalic.ttf) format('truetype');
-}
-
-/* Regular */
-
-@font-face {
-    font-family: 'Lato';
-    font-weight: 400;
-    font-display:swap;
-    src: url(../webfonts/Lato/Lato-Regular.ttf) format('truetype');
-}
-
-/* Regular Italic */
-
-@font-face {
-    font-family: 'Lato';
-    font-style: italic;
-    font-weight: 400;
-    font-display:swap;
-    src: url(../webfonts/Lato/Lato-Italic.ttf) format('truetype');
-}
-
-/* Bold */
-
-@font-face {
-    font-family: 'Lato';
-    font-weight: 700;
-    font-display:swap;
-    src: url(../webfonts/Lato/Lato-Bold.ttf) format('truetype');
-}
-
-/* Bold Italic */
-
-@font-face {
-    font-family: 'Lato';
-    font-style: italic;
-    font-weight: 700;
-    font-display:swap;
-    src: url(../webfonts/Lato/Lato-BoldItalic.ttf) format('truetype');
-}
-
-/* Black */
-
-@font-face {
-    font-family: 'Lato';
+    font-family: 'Poppins';
+    font-style: normal;
     font-weight: 900;
-    font-display:swap;
-    src: url(../webfonts/Lato/Lato-Black.ttf) format('truetype');
+    font-display: swap;
+    src: url(../webfonts/Poppins/Poppins-Black.ttf) format('truetype');
 }
 
-/* Black Italic */
-
 @font-face {
-    font-family: 'Lato';
+    font-family: 'Poppins';
     font-style: italic;
     font-weight: 900;
-    font-display:swap;
-    src: url(../webfonts/Lato/Lato-BlackItalic.ttf) format('truetype');
+    font-display: swap;
+    src: url(../webfonts/Poppins/Poppins-BlackItalic.ttf) format('truetype');
 }
+
+/*bold*/
+
 @font-face {
-    font-family: 'Open Sans Condensed';
-    src: url('OpenSansCondensed-LightItalic.woff2') format('woff2'),
-        url('OpenSansCondensed-LightItalic.woff') format('woff');
-    font-weight: 300;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(../webfonts/Poppins/Poppins-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
     font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url(../webfonts/Poppins/Poppins-BoldItalic.ttf) format('truetype');
+}
+
+/*extra bold*/
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(../webfonts/Poppins/Poppins-ExtraBold.ttf) format('truetype');
 }
 
 @font-face {
-    font-family: 'Open Sans Condensed';
-    src: url('OpenSansCondensed-Light.woff2') format('woff2'),
-        url('OpenSansCondensed-Light.woff') format('woff');
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 800;
+    font-display: swap;
+    src: url(../webfonts/Poppins/Poppins-ExtraBoldItalic.ttf) format('truetype');
+}
+
+/*extra light*/
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src: url(../webfonts/Poppins/Poppins-ExtraLight.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 200;
+    font-display: swap;
+    src: url(../webfonts/Poppins/Poppins-ExtraLightItalic.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
     font-weight: 300;
-    font-style: normal;
+    font-display: swap;
+    src: url(../webfonts/Poppins/Poppins-Light.ttf) format('truetype');
 }
 
 @font-face {
-    font-family: 'Open Sans Condensed';
-    src: url('OpenSansCondensed-Bold.woff2') format('woff2'),
-        url('OpenSansCondensed-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/Poppins/Poppins-LightItalic.ttf) format('truetype');
 }
-
