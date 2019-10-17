@@ -865,3 +865,79 @@
     font-display: swap;
     src: url(../webfonts/Poppins/Poppins-LightItalic.ttf) format('truetype');
 }
+
+/*
+#
+#   Raleway
+#
+*/
+
+/* Bold */
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/Raleway-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/Raleway-BoldItalic.ttf) format('truetype');
+}
+
+/* ExtraBold */
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/Raleway-ExtraBold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/Raleway-BoldItalic.ttf) format('truetype');
+}
+
+/* ExtraLight */
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/Raleway-ExtraLight.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/Raleway-ExtraLightItalic.ttf) format('truetype');
+}
+
+/* Light */
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/Raleway-Light.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/Raleway-LightItalic.ttf) format('truetype');
+}
+
+
