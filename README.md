@@ -86,6 +86,7 @@ LOCAL GOOGLE FONTS
 * Lato
 * Open Sans Condensed
 * Poppins
+* Be Vietnam
 
 ## Guide to contributing
 * Maintain proper nomenclature and comment structure in fonts.css file.
