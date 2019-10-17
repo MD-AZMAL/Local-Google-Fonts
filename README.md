@@ -86,6 +86,7 @@ Local-Google-Fonts/
     └── template.png
 ```
 
+
 ## List of available fonts
 ---
 #### Abrial fatface (f1)
@@ -115,6 +116,21 @@ Local-Google-Fonts/
 ---
 #### Open Sans Condensed (f12)
 ---
+=======
+## List of available fonts 
+* Abrial fatface
+* Armata
+* Hind
+* Libre-Baskerville
+* Lusitana
+* Montserrat
+* Nunito
+* Open-Sans
+* Roboto
+* Source-Sans-Pro
+* Lato
+* Open Sans Condensed
+* Poppins
 
 ## Guide to contributing
 
