@@ -865,3 +865,86 @@
     font-display: swap;
     src: url(../webfonts/Poppins/Poppins-LightItalic.ttf) format('truetype');
 }
+
+/*
+#
+#   Be Vietnam
+#
+*/
+
+/*  Bold */
+@font-face {
+    font-family: 'Be Vietnam';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/BeVietnam-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Be Vietnam';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/BeVietnam-BoldItalic.ttf) format('truetype');
+}
+
+/* ExtraBold */
+@font-face {
+    font-family: 'Be Vietnam';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/BeVietnam-ExtraBold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Be Vietnam';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/BeVietnam-ExtraBoldItalic.ttf) format('truetype');
+}
+
+/* Italic */
+@font-face {
+    font-family: 'Be Vietnam';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/BeVietnam-Italic.ttf) format('truetype');
+}
+
+/* Light */
+@font-face {
+    font-family: 'Be Vietnam';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/BeVietnam-Light.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Be Vietnam';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/BeVietnam-LightItalic.ttf) format('truetype');
+}
+
+/* SemiBold */
+@font-face {
+    font-family: 'Be Vietnam';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/BeVietnam-SemiBold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Be Veitnam';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/BeVietnam-SemiBoldItalic.ttf) format('truetype');
+}
