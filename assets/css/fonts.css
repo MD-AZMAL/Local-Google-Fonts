@@ -1017,3 +1017,32 @@
     font-display: swap;
     src: url(../webfonts/BeVietnam-SemiBoldItalic.ttf) format('truetype');
 }
+
+/*
+#
+#   Space Mono
+#
+*/
+
+/* Regular */
+
+@font-face {
+    font-family: 'Space Mono',monospace;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../webfonts/Space-Mono/SpaceMono-Regular.ttf) format('truetype');
+}
+
+
+/* Bold */
+
+@font-face {
+    font-family: 'Space Mono',monospace;
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url(../webfonts/Space-Mono/SpaceMono-BoldItalic.ttf) format('truetype');
+}
+
+
