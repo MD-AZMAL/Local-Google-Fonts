@@ -87,7 +87,9 @@ LOCAL GOOGLE FONTS
 * Open Sans Condensed
 * Poppins
 * Raleway
-* Be Vietna
+* Be Vietnam
+* Space Mono
+
 
 ## Guide to contributing
 * Maintain proper nomenclature and comment structure in fonts.css file.
