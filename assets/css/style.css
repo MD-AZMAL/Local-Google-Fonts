@@ -39,8 +39,29 @@ body {
 }
 
 .f10 {
-    font-family: 'Source Sans Pro'
+    font-family: 'Source Sans Pro';
 }
+
+.f11 {
+    font-family: 'Poppins';
+}
+
+.f12 {
+    font-family: 'Raleway';
+}
+
+.f13 {
+    font-family: 'Be Vietnam';
+}
+
+.f14 {
+    font-family: 'Space Mono';
+}
+
+.f15{
+    font-family: 'PT Mono', monospace;
+}
+
 
 footer {
     font-size: 16px;

@@ -772,3 +772,285 @@
     font-display: swap;
     src: url(../webfonts/Source-Sans-Pro/SourceSansPro-BlackItalic.ttf) format('truetype');
 }
+/*
+#
+#   Poppins
+#
+*/
+
+/*black*/
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(../webfonts/Poppins/Poppins-Black.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 900;
+    font-display: swap;
+    src: url(../webfonts/Poppins/Poppins-BlackItalic.ttf) format('truetype');
+}
+
+/*bold*/
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(../webfonts/Poppins/Poppins-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url(../webfonts/Poppins/Poppins-BoldItalic.ttf) format('truetype');
+}
+
+/*extra bold*/
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(../webfonts/Poppins/Poppins-ExtraBold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 800;
+    font-display: swap;
+    src: url(../webfonts/Poppins/Poppins-ExtraBoldItalic.ttf) format('truetype');
+}
+
+/*extra light*/
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src: url(../webfonts/Poppins/Poppins-ExtraLight.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 200;
+    font-display: swap;
+    src: url(../webfonts/Poppins/Poppins-ExtraLightItalic.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/Poppins/Poppins-Light.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/Poppins/Poppins-LightItalic.ttf) format('truetype');
+}
+
+/*
+#
+#   Raleway
+#
+*/
+
+/* Bold */
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/Raleway-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/Raleway-BoldItalic.ttf) format('truetype');
+#   Be Vietnam
+#
+*/
+
+/*  Bold */
+@font-face {
+    font-family: 'Be Vietnam';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/BeVietnam-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Be Vietnam';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/BeVietnam-BoldItalic.ttf) format('truetype');
+}
+
+/* ExtraBold */
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/Raleway-ExtraBold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/Raleway-BoldItalic.ttf) format('truetype');
+}
+
+/* ExtraLight */
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/Raleway-ExtraLight.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/Raleway-ExtraLightItalic.ttf) format('truetype');
+}
+
+/* Light */
+@font-face {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/Raleway-Light.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/Raleway-LightItalic.ttf) format('truetype');
+}
+
+
+    font-family: 'Be Vietnam';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/BeVietnam-ExtraBold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Be Vietnam';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/BeVietnam-ExtraBoldItalic.ttf) format('truetype');
+}
+
+/* Italic */
+@font-face {
+    font-family: 'Be Vietnam';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/BeVietnam-Italic.ttf) format('truetype');
+}
+
+/* Light */
+@font-face {
+    font-family: 'Be Vietnam';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/BeVietnam-Light.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Be Vietnam';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/BeVietnam-LightItalic.ttf) format('truetype');
+}
+
+/* SemiBold */
+@font-face {
+    font-family: 'Be Vietnam';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/BeVietnam-SemiBold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Be Vietnam';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(../webfonts/BeVietnam-SemiBoldItalic.ttf) format('truetype');
+}
+
+/*
+#
+#   Space Mono
+#
+*/
+
+/* Regular */
+
+@font-face {
+    font-family: 'Space Mono',monospace;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../webfonts/Space-Mono/SpaceMono-Regular.ttf) format('truetype');
+}
+
+
+/* Bold */
+
+@font-face {
+    font-family: 'Space Mono',monospace;
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url(../webfonts/Space-Mono/SpaceMono-BoldItalic.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'PT Mono', monospace;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../webfonts/PT_Mono/PTMono-Regular.ttf) format('truetype');
+}
+
+

@@ -83,6 +83,13 @@ LOCAL GOOGLE FONTS
 * Open-Sans
 * Roboto
 * Source-Sans-Pro
+* Lato
+* Open Sans Condensed
+* Poppins
+* Raleway
+* Be Vietnam
+* Space Mono
+
 
 ## Guide to contributing
 * Maintain proper nomenclature and comment structure in fonts.css file.
