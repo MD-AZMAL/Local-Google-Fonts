@@ -887,9 +887,7 @@
     font-weight: 300;
     font-display: swap;
     src: url(../webfonts/Raleway-BoldItalic.ttf) format('truetype');
-#   Be Vietnam
-#
-*/
+}
 
 /*  Bold */
 @font-face {
@@ -959,6 +957,8 @@
     src: url(../webfonts/Raleway-LightItalic.ttf) format('truetype');
 }
 
+@font-face
+{
 
     font-family: 'Be Vietnam';
     font-style: normal;
@@ -1038,11 +1038,11 @@
 /* Bold */
 
 @font-face {
-    font-family: 'Space Mono',monospace;
+    font-family: 'Ubuntu Mono', monospace;
     font-style: italic;
     font-weight: 700;
     font-display: swap;
-    src: url(../webfonts/Space-Mono/SpaceMono-BoldItalic.ttf) format('truetype');
+    src: url(../fonts/Ubuntu_Mono/UbuntuMono-Bold.ttf) format('truetype');
 }
 
 @font-face {
