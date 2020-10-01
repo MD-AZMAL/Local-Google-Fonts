@@ -1045,4 +1045,12 @@
     src: url(../webfonts/Space-Mono/SpaceMono-BoldItalic.ttf) format('truetype');
 }
 
+@font-face {
+    font-family: 'PT Mono', monospace;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../webfonts/PT_Mono/PTMono-Regular.ttf) format('truetype');
+}
+
 

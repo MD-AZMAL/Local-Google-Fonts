@@ -58,6 +58,10 @@ body {
     font-family: 'Space Mono';
 }
 
+.f15{
+    font-family: 'PT Mono', monospace;
+}
+
 
 footer {
     font-size: 16px;
