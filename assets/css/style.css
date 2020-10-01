@@ -57,9 +57,16 @@ body {
 .f14 {
     font-family: 'Space Mono';
 }
+
 .f16 {
     font-family: 'Ubuntu Mono';
 }
+
+
+.f15{
+    font-family: 'PT Mono', monospace;
+}
+
 
 footer {
     font-size: 16px;
