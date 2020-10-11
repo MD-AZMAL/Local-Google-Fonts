@@ -7,11 +7,12 @@
 /* Regular */
 
 @font-face {
-    font-family: 'Abril Fatface';
-    font-style: normal;
-    font-weight: 400;
-    font-display: swap;
-    src: url(../webfonts/Abril-Fatface/AbrilFatface-Regular.ttf) format('truetype');
+  font-family: "Abril Fatface";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../webfonts/Abril-Fatface/AbrilFatface-Regular.ttf)
+    format("truetype");
 }
 
 /* 
@@ -23,11 +24,11 @@
 /* Regular */
 
 @font-face {
-    font-family: 'Armata';
-    font-style: normal;
-    font-weight: 400;
-    font-display: swap;
-    src: url(../webfonts/Armata/Armata-Regular.ttf) format('truetype');
+  font-family: "Armata";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../webfonts/Armata/Armata-Regular.ttf) format("truetype");
 }
 
 /* 
@@ -39,51 +40,51 @@
 /* Regular */
 
 @font-face {
-    font-family: 'Hind';
-    font-style: normal;
-    font-weight: 400;
-    font-display: swap;
-    src: url(../webfonts/Hind/Hind-Regular.ttf) format('truetype');
+  font-family: "Hind";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../webfonts/Hind/Hind-Regular.ttf) format("truetype");
 }
 
 /* Light */
 
 @font-face {
-    font-family: 'Hind';
-    font-style: normal;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/Hind/Hind-Light.ttf) format('truetype');
+  font-family: "Hind";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/Hind/Hind-Light.ttf) format("truetype");
 }
 
 /* Medium */
 
 @font-face {
-    font-family: 'Hind';
-    font-style: normal;
-    font-weight: 500;
-    font-display: swap;
-    src: url(../webfonts/Hind/Hind-Medium.ttf) format('truetype');
+  font-family: "Hind";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../webfonts/Hind/Hind-Medium.ttf) format("truetype");
 }
 
 /* Semi Bold */
 
 @font-face {
-    font-family: 'Hind';
-    font-style: normal;
-    font-weight: 600;
-    font-display: swap;
-    src: url(../webfonts/Hind/Hind-SemiBold.ttf) format('truetype');
+  font-family: "Hind";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../webfonts/Hind/Hind-SemiBold.ttf) format("truetype");
 }
 
 /* Bold */
 
 @font-face {
-    font-family: 'Hind';
-    font-style: normal;
-    font-weight: 700;
-    font-display: swap;
-    src: url(../webfonts/Hind/Hind-Bold.ttf) format('truetype');
+  font-family: "Hind";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../webfonts/Hind/Hind-Bold.ttf) format("truetype");
 }
 
 /* 
@@ -95,31 +96,34 @@
 /* Regular */
 
 @font-face {
-    font-family: 'Libre Baskerville';
-    font-style: normal;
-    font-weight: 400;
-    font-display: swap;
-    src: url(../webfonts/Libre-Baskerville/LibreBaskerville-Regular.ttf) format('truetype');
+  font-family: "Libre Baskerville";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../webfonts/Libre-Baskerville/LibreBaskerville-Regular.ttf)
+    format("truetype");
 }
 
 /* Bold */
 
 @font-face {
-    font-family: 'Libre Baskerville';
-    font-style: normal;
-    font-weight: 700;
-    font-display: swap;
-    src: url(../webfonts/Libre-Baskerville/LibreBaskerville-Bold.ttf) format('truetype');
+  font-family: "Libre Baskerville";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../webfonts/Libre-Baskerville/LibreBaskerville-Bold.ttf)
+    format("truetype");
 }
 
 /* Italic */
 
 @font-face {
-    font-family: 'Libre Baskerville';
-    font-style: italic;
-    font-weight: 400;
-    font-display: swap;
-    src: url(../webfonts/Libre-Baskerville/LibreBaskerville-Italic.ttf) format('truetype');
+  font-family: "Libre Baskerville";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../webfonts/Libre-Baskerville/LibreBaskerville-Italic.ttf)
+    format("truetype");
 }
 
 /* 
@@ -131,21 +135,21 @@
 /* Regular */
 
 @font-face {
-    font-family: 'Lusitana';
-    font-style: normal;
-    font-weight: 400;
-    font-display: swap;
-    src: url(../webfonts/Lusitana/Lusitana-Regular.ttf) format('truetype');
+  font-family: "Lusitana";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../webfonts/Lusitana/Lusitana-Regular.ttf) format("truetype");
 }
 
 /* Bold */
 
 @font-face {
-    font-family: 'Lusitana';
-    font-style: normal;
-    font-weight: 700;
-    font-display: swap;
-    src: url(../webfonts/Lusitana/Lusitana-Bold.ttf) format('truetype');
+  font-family: "Lusitana";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../webfonts/Lusitana/Lusitana-Bold.ttf) format("truetype");
 }
 
 /* 
@@ -157,163 +161,167 @@
 /* Regular */
 
 @font-face {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 400;
-    font-display: swap;
-    src: url(../webfonts/Montserrat/Montserrat-Regular.ttf) format('truetype');
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../webfonts/Montserrat/Montserrat-Regular.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Montserrat';
-    font-style: italic;
-    font-weight: 400;
-    font-display: swap;
-    src: url(../webfonts/Montserrat/Montserrat-Italic.ttf) format('truetype');
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../webfonts/Montserrat/Montserrat-Italic.ttf) format("truetype");
 }
 
 /* Thin */
 
 @font-face {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 100;
-    font-display: swap;
-    src: url(../webfonts/Montserrat/Montserrat-Thin.ttf) format('truetype');
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(../webfonts/Montserrat/Montserrat-Thin.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Montserrat';
-    font-style: italic;
-    font-weight: 100;
-    font-display: swap;
-    src: url(../webfonts/Montserrat/Montserrat-ThinItalic.ttf) format('truetype');
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url(../webfonts/Montserrat/Montserrat-ThinItalic.ttf) format("truetype");
 }
 
 /* Extra Light */
 
 @font-face {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 200;
-    font-display: swap;
-    src: url(../webfonts/Montserrat/Montserrat-ExtraLight.ttf) format('truetype');
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(../webfonts/Montserrat/Montserrat-ExtraLight.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Montserrat';
-    font-style: italic;
-    font-weight: 200;
-    font-display: swap;
-    src: url(../webfonts/Montserrat/Montserrat-ExtraLightItalic.ttf) format('truetype');
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(../webfonts/Montserrat/Montserrat-ExtraLightItalic.ttf)
+    format("truetype");
 }
 
 /* Light */
 
 @font-face {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/Montserrat/Montserrat-Light.ttf) format('truetype');
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/Montserrat/Montserrat-Light.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Montserrat';
-    font-style: italic;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/Montserrat/Montserrat-LightItalic.ttf) format('truetype');
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/Montserrat/Montserrat-LightItalic.ttf) format("truetype");
 }
 
 /* Medium */
 
 @font-face {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 500;
-    font-display: swap;
-    src: url(../webfonts/Montserrat/Montserrat-Medium.ttf) format('truetype');
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../webfonts/Montserrat/Montserrat-Medium.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Montserrat';
-    font-style: italic;
-    font-weight: 500;
-    font-display: swap;
-    src: url(../webfonts/Montserrat/Montserrat-MediumItalic.ttf) format('truetype');
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../webfonts/Montserrat/Montserrat-MediumItalic.ttf)
+    format("truetype");
 }
 
 /* Semi Bold */
 
 @font-face {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 600;
-    font-display: swap;
-    src: url(../webfonts/Montserrat/Montserrat-SemiBold.ttf) format('truetype');
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../webfonts/Montserrat/Montserrat-SemiBold.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Montserrat';
-    font-style: italic;
-    font-weight: 600;
-    font-display: swap;
-    src: url(../webfonts/Montserrat/Montserrat-SemiBoldItalic.ttf) format('truetype');
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../webfonts/Montserrat/Montserrat-SemiBoldItalic.ttf)
+    format("truetype");
 }
 
 /* Bold */
 
 @font-face {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 700;
-    font-display: swap;
-    src: url(../webfonts/Montserrat/Montserrat-Bold.ttf) format('truetype');
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../webfonts/Montserrat/Montserrat-Bold.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Montserrat';
-    font-style: italic;
-    font-weight: 700;
-    font-display: swap;
-    src: url(../webfonts/Montserrat/Montserrat-BoldItalic.ttf) format('truetype');
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../webfonts/Montserrat/Montserrat-BoldItalic.ttf) format("truetype");
 }
 
 /* Extra Bold */
 
 @font-face {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 800;
-    font-display: swap;
-    src: url(../webfonts/Montserrat/Montserrat-ExtraBold.ttf) format('truetype');
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(../webfonts/Montserrat/Montserrat-ExtraBold.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Montserrat';
-    font-style: italic;
-    font-weight: 800;
-    font-display: swap;
-    src: url(../webfonts/Montserrat/Montserrat-ExtraBoldItalic.ttf) format('truetype');
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(../webfonts/Montserrat/Montserrat-ExtraBoldItalic.ttf)
+    format("truetype");
 }
 
 /* Black */
 
 @font-face {
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 900;
-    font-display: swap;
-    src: url(../webfonts/Montserrat/Montserrat-Black.ttf) format('truetype');
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(../webfonts/Montserrat/Montserrat-Black.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Montserrat';
-    font-style: italic;
-    font-weight: 900;
-    font-display: swap;
-    src: url(../webfonts/Montserrat/Montserrat-BlackItalic.ttf) format('truetype');
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(../webfonts/Montserrat/Montserrat-BlackItalic.ttf) format("truetype");
 }
 
 /* 
@@ -325,128 +333,127 @@
 /* Regular */
 
 @font-face {
-    font-family: 'Nunito';
-    font-style: normal;
-    font-weight: 400;
-    font-display: swap;
-    src: url(../webfonts/Nunito/Nunito-Regular.ttf) format('truetype');
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../webfonts/Nunito/Nunito-Regular.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Nunito';
-    font-style: italic;
-    font-weight: 400;
-    font-display: swap;
-    src: url(../webfonts/Nunito/Nunito-Italic.ttf) format('truetype');
+  font-family: "Nunito";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../webfonts/Nunito/Nunito-Italic.ttf) format("truetype");
 }
-
 
 /* Extra Light */
 
 @font-face {
-    font-family: 'Nunito';
-    font-style: normal;
-    font-weight: 200;
-    font-display: swap;
-    src: url(../webfonts/Nunito/Nunito-ExtraLight.ttf) format('truetype');
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(../webfonts/Nunito/Nunito-ExtraLight.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Nunito';
-    font-style: italic;
-    font-weight: 200;
-    font-display: swap;
-    src: url(../webfonts/Nunito/Nunito-ExtraLightItalic.ttf) format('truetype');
+  font-family: "Nunito";
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(../webfonts/Nunito/Nunito-ExtraLightItalic.ttf) format("truetype");
 }
 
 /* Light */
 
 @font-face {
-    font-family: 'Nunito';
-    font-style: normal;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/Nunito/Nunito-Light.ttf) format('truetype');
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/Nunito/Nunito-Light.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Nunito';
-    font-style: italic;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/Nunito/Nunito-LightItalic.ttf) format('truetype');
+  font-family: "Nunito";
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/Nunito/Nunito-LightItalic.ttf) format("truetype");
 }
 
 /* Semi Bold */
 
 @font-face {
-    font-family: 'Nunito';
-    font-style: normal;
-    font-weight: 600;
-    font-display: swap;
-    src: url(../webfonts/Nunito/Nunito-SemiBold.ttf) format('truetype');
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../webfonts/Nunito/Nunito-SemiBold.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Nunito';
-    font-style: italic;
-    font-weight: 600;
-    font-display: swap;
-    src: url(../webfonts/Nunito/Nunito-SemiBoldItalic.ttf) format('truetype');
+  font-family: "Nunito";
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../webfonts/Nunito/Nunito-SemiBoldItalic.ttf) format("truetype");
 }
 
 /* Bold */
 
 @font-face {
-    font-family: 'Nunito';
-    font-style: normal;
-    font-weight: 700;
-    font-display: swap;
-    src: url(../webfonts/Nunito/Nunito-Bold.ttf) format('truetype');
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../webfonts/Nunito/Nunito-Bold.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Nunito';
-    font-style: italic;
-    font-weight: 700;
-    font-display: swap;
-    src: url(../webfonts/Nunito/Nunito-BoldItalic.ttf) format('truetype');
+  font-family: "Nunito";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../webfonts/Nunito/Nunito-BoldItalic.ttf) format("truetype");
 }
 
 /* Extra Bold */
 
 @font-face {
-    font-family: 'Nunito';
-    font-style: normal;
-    font-weight: 800;
-    font-display: swap;
-    src: url(../webfonts/Nunito/Nunito-ExtraBold.ttf) format('truetype');
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(../webfonts/Nunito/Nunito-ExtraBold.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Nunito';
-    font-style: italic;
-    font-weight: 800;
-    font-display: swap;
-    src: url(../webfonts/Nunito/Nunito-ExtraBoldItalic.ttf) format('truetype');
+  font-family: "Nunito";
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(../webfonts/Nunito/Nunito-ExtraBoldItalic.ttf) format("truetype");
 }
 
 /* Black */
 
 @font-face {
-    font-family: 'Nunito';
-    font-style: normal;
-    font-weight: 900;
-    font-display: swap;
-    src: url(../webfonts/Nunito/Nunito-Black.ttf) format('truetype');
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(../webfonts/Nunito/Nunito-Black.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Nunito';
-    font-style: italic;
-    font-weight: 900;
-    font-display: swap;
-    src: url(../webfonts/Nunito/Nunito-BlackItalic.ttf) format('truetype');
+  font-family: "Nunito";
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(../webfonts/Nunito/Nunito-BlackItalic.ttf) format("truetype");
 }
 
 /* 
@@ -458,91 +465,92 @@
 /* Regular */
 
 @font-face {
-    font-family: 'Open Sans';
-    font-style: normal;
-    font-weight: 400;
-    font-display: swap;
-    src: url(../webfonts/Open-Sans/OpenSans-Regular.ttf) format('truetype');
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../webfonts/Open-Sans/OpenSans-Regular.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Open Sans';
-    font-style: italic;
-    font-weight: 400;
-    font-display: swap;
-    src: url(../webfonts/Open-Sans/OpenSans-Italic.ttf) format('truetype');
+  font-family: "Open Sans";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../webfonts/Open-Sans/OpenSans-Italic.ttf) format("truetype");
 }
 
 /* Light */
 
 @font-face {
-    font-family: 'Open Sans';
-    font-style: normal;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/Open-Sans/OpenSans-Light.ttf) format('truetype');
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/Open-Sans/OpenSans-Light.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Open Sans';
-    font-style: italic;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/Open-Sans/OpenSans-LightItalic.ttf) format('truetype');
+  font-family: "Open Sans";
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/Open-Sans/OpenSans-LightItalic.ttf) format("truetype");
 }
 
 /* Semi Bold */
 
 @font-face {
-    font-family: 'Open Sans';
-    font-style: normal;
-    font-weight: 600;
-    font-display: swap;
-    src: url(../webfonts/Open-Sans/OpenSans-SemiBold.ttf) format('truetype');
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../webfonts/Open-Sans/OpenSans-SemiBold.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Open Sans';
-    font-style: italic;
-    font-weight: 600;
-    font-display: swap;
-    src: url(../webfonts/Open-Sans/OpenSans-SemiBoldItalic.ttf) format('truetype');
+  font-family: "Open Sans";
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../webfonts/Open-Sans/OpenSans-SemiBoldItalic.ttf) format("truetype");
 }
 
 /* Bold */
 
 @font-face {
-    font-family: 'Open Sans';
-    font-style: normal;
-    font-weight: 700;
-    font-display: swap;
-    src: url(../webfonts/Open-Sans/OpenSans-Bold.ttf) format('truetype');
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../webfonts/Open-Sans/OpenSans-Bold.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Open Sans';
-    font-style: italic;
-    font-weight: 700;
-    font-display: swap;
-    src: url(../webfonts/Open-Sans/OpenSans-BoldItalic.ttf) format('truetype');
+  font-family: "Open Sans";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../webfonts/Open-Sans/OpenSans-BoldItalic.ttf) format("truetype");
 }
 
 /* Extra Bold */
 
 @font-face {
-    font-family: 'Open Sans';
-    font-style: normal;
-    font-weight: 800;
-    font-display: swap;
-    src: url(../webfonts/Open-Sans/OpenSans-ExtraBold.ttf) format('truetype');
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(../webfonts/Open-Sans/OpenSans-ExtraBold.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Open Sans';
-    font-style: italic;
-    font-weight: 800;
-    font-display: swap;
-    src: url(../webfonts/Open-Sans/OpenSans-ExtraBoldItalic.ttf) format('truetype');
+  font-family: "Open Sans";
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(../webfonts/Open-Sans/OpenSans-ExtraBoldItalic.ttf)
+    format("truetype");
 }
 
 /* 
@@ -554,109 +562,109 @@
 /* Regular */
 
 @font-face {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-display: swap;
-    src: url(../webfonts/Roboto/Roboto-Regular.ttf) format('truetype');
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../webfonts/Roboto/Roboto-Regular.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Roboto';
-    font-style: italic;
-    font-weight: 400;
-    font-display: swap;
-    src: url(../webfonts/Roboto/Roboto-Italic.ttf) format('truetype');
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../webfonts/Roboto/Roboto-Italic.ttf) format("truetype");
 }
 
 /* Thin */
 
 @font-face {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 100;
-    font-display: swap;
-    src: url(../webfonts/Roboto/Roboto-Thin.ttf) format('truetype');
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(../webfonts/Roboto/Roboto-Thin.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Roboto';
-    font-style: italic;
-    font-weight: 100;
-    font-display: swap;
-    src: url(../webfonts/Roboto/Roboto-ThinItalic.ttf) format('truetype');
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url(../webfonts/Roboto/Roboto-ThinItalic.ttf) format("truetype");
 }
 
 /* Light */
 
 @font-face {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/Roboto/Roboto-Light.ttf) format('truetype');
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/Roboto/Roboto-Light.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Roboto';
-    font-style: italic;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/Roboto/Roboto-LightItalic.ttf) format('truetype');
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/Roboto/Roboto-LightItalic.ttf) format("truetype");
 }
 
 /* Medium */
 
 @font-face {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-display: swap;
-    src: url(../webfonts/Roboto/Roboto-Medium.ttf) format('truetype');
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../webfonts/Roboto/Roboto-Medium.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Roboto';
-    font-style: italic;
-    font-weight: 500;
-    font-display: swap;
-    src: url(../webfonts/Roboto/Roboto-MediumItalic.ttf) format('truetype');
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../webfonts/Roboto/Roboto-MediumItalic.ttf) format("truetype");
 }
 
 /* Bold */
 
 @font-face {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 700;
-    font-display: swap;
-    src: url(../webfonts/Roboto/Roboto-Bold.ttf) format('truetype');
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../webfonts/Roboto/Roboto-Bold.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Roboto';
-    font-style: italic;
-    font-weight: 700;
-    font-display: swap;
-    src: url(../webfonts/Roboto/Roboto-BoldItalic.ttf) format('truetype');
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../webfonts/Roboto/Roboto-BoldItalic.ttf) format("truetype");
 }
 
 /* Black */
 
 @font-face {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 900;
-    font-display: swap;
-    src: url(../webfonts/Roboto/Roboto-Black.ttf) format('truetype');
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(../webfonts/Roboto/Roboto-Black.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Roboto';
-    font-style: italic;
-    font-weight: 900;
-    font-display: swap;
-    src: url(../webfonts/Roboto/Roboto-BlackItalic.ttf) format('truetype');
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(../webfonts/Roboto/Roboto-BlackItalic.ttf) format("truetype");
 }
 
 /* 
@@ -668,109 +676,121 @@
 /* Regular */
 
 @font-face {
-    font-family: 'Source Sans Pro';
-    font-style: normal;
-    font-weight: 400;
-    font-display: swap;
-    src: url(../webfonts/Source-Sans-Pro/SourceSansPro-Regular.ttf) format('truetype');
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../webfonts/Source-Sans-Pro/SourceSansPro-Regular.ttf)
+    format("truetype");
 }
 
 @font-face {
-    font-family: 'Source Sans Pro';
-    font-style: italic;
-    font-weight: 400;
-    font-display: swap;
-    src: url(../webfonts/Source-Sans-Pro/SourceSansPro-Italic.ttf) format('truetype');
+  font-family: "Source Sans Pro";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../webfonts/Source-Sans-Pro/SourceSansPro-Italic.ttf)
+    format("truetype");
 }
 
 /* Extra Light */
 
 @font-face {
-    font-family: 'Source Sans Pro';
-    font-style: normal;
-    font-weight: 200;
-    font-display: swap;
-    src: url(../webfonts/Source-Sans-Pro/SourceSansPro-ExtraLight.ttf) format('truetype');
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(../webfonts/Source-Sans-Pro/SourceSansPro-ExtraLight.ttf)
+    format("truetype");
 }
 
 @font-face {
-    font-family: 'Source Sans Pro';
-    font-style: italic;
-    font-weight: 200;
-    font-display: swap;
-    src: url(../webfonts/Source-Sans-Pro/SourceSansPro-ExtraLightItalic.ttf) format('truetype');
+  font-family: "Source Sans Pro";
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(../webfonts/Source-Sans-Pro/SourceSansPro-ExtraLightItalic.ttf)
+    format("truetype");
 }
 
 /* Light */
 
 @font-face {
-    font-family: 'Source Sans Pro';
-    font-style: normal;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/Source-Sans-Pro/SourceSansPro-Light.ttf) format('truetype');
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/Source-Sans-Pro/SourceSansPro-Light.ttf)
+    format("truetype");
 }
 
 @font-face {
-    font-family: 'Source Sans Pro';
-    font-style: italic;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/Source-Sans-Pro/SourceSansPro-LightItalic.ttf) format('truetype');
+  font-family: "Source Sans Pro";
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/Source-Sans-Pro/SourceSansPro-LightItalic.ttf)
+    format("truetype");
 }
 
 /* Bold */
 
 @font-face {
-    font-family: 'Source Sans Pro';
-    font-style: normal;
-    font-weight: 700;
-    font-display: swap;
-    src: url(../webfonts/Source-Sans-Pro/SourceSansPro-Bold.ttf) format('truetype');
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../webfonts/Source-Sans-Pro/SourceSansPro-Bold.ttf)
+    format("truetype");
 }
 
 @font-face {
-    font-family: 'Source Sans Pro';
-    font-style: italic;
-    font-weight: 700;
-    font-display: swap;
-    src: url(../webfonts/Source-Sans-Pro/SourceSansPro-BoldItalic.ttf) format('truetype');
+  font-family: "Source Sans Pro";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../webfonts/Source-Sans-Pro/SourceSansPro-BoldItalic.ttf)
+    format("truetype");
 }
 
 /* Semi Bold */
 
 @font-face {
-    font-family: 'Source Sans Pro';
-    font-style: normal;
-    font-weight: 600;
-    font-display: swap;
-    src: url(../webfonts/Source-Sans-Pro/SourceSansPro-SemiBold.ttf) format('truetype');
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../webfonts/Source-Sans-Pro/SourceSansPro-SemiBold.ttf)
+    format("truetype");
 }
 
 @font-face {
-    font-family: 'Source Sans Pro';
-    font-style: italic;
-    font-weight: 600;
-    font-display: swap;
-    src: url(../webfonts/Source-Sans-Pro/SourceSansPro-SemiBoldItalic.ttf) format('truetype');
+  font-family: "Source Sans Pro";
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../webfonts/Source-Sans-Pro/SourceSansPro-SemiBoldItalic.ttf)
+    format("truetype");
 }
 
 /* Black */
 
 @font-face {
-    font-family: 'Source Sans Pro';
-    font-style: normal;
-    font-weight: 900;
-    font-display: swap;
-    src: url(../webfonts/Source-Sans-Pro/SourceSansPro-Black.ttf) format('truetype');
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(../webfonts/Source-Sans-Pro/SourceSansPro-Black.ttf)
+    format("truetype");
 }
 
 @font-face {
-    font-family: 'Source Sans Pro';
-    font-style: italic;
-    font-weight: 900;
-    font-display: swap;
-    src: url(../webfonts/Source-Sans-Pro/SourceSansPro-BlackItalic.ttf) format('truetype');
+  font-family: "Source Sans Pro";
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(../webfonts/Source-Sans-Pro/SourceSansPro-BlackItalic.ttf)
+    format("truetype");
 }
 /*
 #
@@ -781,89 +801,89 @@
 /*black*/
 
 @font-face {
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 900;
-    font-display: swap;
-    src: url(../webfonts/Poppins/Poppins-Black.ttf) format('truetype');
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(../webfonts/Poppins/Poppins-Black.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Poppins';
-    font-style: italic;
-    font-weight: 900;
-    font-display: swap;
-    src: url(../webfonts/Poppins/Poppins-BlackItalic.ttf) format('truetype');
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(../webfonts/Poppins/Poppins-BlackItalic.ttf) format("truetype");
 }
 
 /*bold*/
 
 @font-face {
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 700;
-    font-display: swap;
-    src: url(../webfonts/Poppins/Poppins-Bold.ttf) format('truetype');
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../webfonts/Poppins/Poppins-Bold.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Poppins';
-    font-style: italic;
-    font-weight: 700;
-    font-display: swap;
-    src: url(../webfonts/Poppins/Poppins-BoldItalic.ttf) format('truetype');
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../webfonts/Poppins/Poppins-BoldItalic.ttf) format("truetype");
 }
 
 /*extra bold*/
 
 @font-face {
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 800;
-    font-display: swap;
-    src: url(../webfonts/Poppins/Poppins-ExtraBold.ttf) format('truetype');
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(../webfonts/Poppins/Poppins-ExtraBold.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Poppins';
-    font-style: italic;
-    font-weight: 800;
-    font-display: swap;
-    src: url(../webfonts/Poppins/Poppins-ExtraBoldItalic.ttf) format('truetype');
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(../webfonts/Poppins/Poppins-ExtraBoldItalic.ttf) format("truetype");
 }
 
 /*extra light*/
 
 @font-face {
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 200;
-    font-display: swap;
-    src: url(../webfonts/Poppins/Poppins-ExtraLight.ttf) format('truetype');
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(../webfonts/Poppins/Poppins-ExtraLight.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Poppins';
-    font-style: italic;
-    font-weight: 200;
-    font-display: swap;
-    src: url(../webfonts/Poppins/Poppins-ExtraLightItalic.ttf) format('truetype');
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(../webfonts/Poppins/Poppins-ExtraLightItalic.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/Poppins/Poppins-Light.ttf) format('truetype');
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/Poppins/Poppins-Light.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Poppins';
-    font-style: italic;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/Poppins/Poppins-LightItalic.ttf) format('truetype');
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/Poppins/Poppins-LightItalic.ttf) format("truetype");
 }
 
 /*
@@ -874,148 +894,148 @@
 
 /* Bold */
 @font-face {
-    font-family: 'Raleway';
-    font-style: normal;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/Raleway-Bold.ttf) format('truetype');
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/Raleway-Bold.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Raleway';
-    font-style: italic;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/Raleway-BoldItalic.ttf) format('truetype');
-#   Be Vietnam
+  font-family: "Raleway";
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/Raleway-BoldItalic.ttf) format("truetype");
+  /*Be Vietnam
 #
 */
+}
 
 /*  Bold */
 @font-face {
-    font-family: 'Be Vietnam';
-    font-style: normal;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/BeVietnam-Bold.ttf) format('truetype');
+  font-family: "Be Vietnam";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/BeVietnam-Bold.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Be Vietnam';
-    font-style: italic;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/BeVietnam-BoldItalic.ttf) format('truetype');
+  font-family: "Be Vietnam";
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/BeVietnam-BoldItalic.ttf) format("truetype");
 }
 
 /* ExtraBold */
 @font-face {
-    font-family: 'Raleway';
-    font-style: normal;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/Raleway-ExtraBold.ttf) format('truetype');
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/Raleway-ExtraBold.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Raleway';
-    font-style: italic;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/Raleway-BoldItalic.ttf) format('truetype');
+  font-family: "Raleway";
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/Raleway-BoldItalic.ttf) format("truetype");
 }
 
 /* ExtraLight */
 @font-face {
-    font-family: 'Raleway';
-    font-style: normal;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/Raleway-ExtraLight.ttf) format('truetype');
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/Raleway-ExtraLight.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Raleway';
-    font-style: italic;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/Raleway-ExtraLightItalic.ttf) format('truetype');
+  font-family: "Raleway";
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/Raleway-ExtraLightItalic.ttf) format("truetype");
 }
 
 /* Light */
 @font-face {
-    font-family: 'Raleway';
-    font-style: normal;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/Raleway-Light.ttf) format('truetype');
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/Raleway-Light.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Raleway';
-    font-style: italic;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/Raleway-LightItalic.ttf) format('truetype');
+  font-family: "Raleway";
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/Raleway-LightItalic.ttf) format("truetype");
 }
-
-
-    font-family: 'Be Vietnam';
-    font-style: normal;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/BeVietnam-ExtraBold.ttf) format('truetype');
+@font-face {
+  font-family: "Be Vietnam";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/BeVietnam-ExtraBold.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Be Vietnam';
-    font-style: italic;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/BeVietnam-ExtraBoldItalic.ttf) format('truetype');
+  font-family: "Be Vietnam";
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/BeVietnam-ExtraBoldItalic.ttf) format("truetype");
 }
 
 /* Italic */
 @font-face {
-    font-family: 'Be Vietnam';
-    font-style: normal;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/BeVietnam-Italic.ttf) format('truetype');
+  font-family: "Be Vietnam";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/BeVietnam-Italic.ttf) format("truetype");
 }
 
 /* Light */
 @font-face {
-    font-family: 'Be Vietnam';
-    font-style: normal;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/BeVietnam-Light.ttf) format('truetype');
+  font-family: "Be Vietnam";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/BeVietnam-Light.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Be Vietnam';
-    font-style: italic;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/BeVietnam-LightItalic.ttf) format('truetype');
+  font-family: "Be Vietnam";
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/BeVietnam-LightItalic.ttf) format("truetype");
 }
 
 /* SemiBold */
 @font-face {
-    font-family: 'Be Vietnam';
-    font-style: normal;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/BeVietnam-SemiBold.ttf) format('truetype');
+  font-family: "Be Vietnam";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/BeVietnam-SemiBold.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: 'Be Vietnam';
-    font-style: italic;
-    font-weight: 300;
-    font-display: swap;
-    src: url(../webfonts/BeVietnam-SemiBoldItalic.ttf) format('truetype');
+  font-family: "Be Vietnam";
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(../webfonts/BeVietnam-SemiBoldItalic.ttf) format("truetype");
 }
 
 /*
@@ -1027,22 +1047,19 @@
 /* Regular */
 
 @font-face {
-    font-family: 'Space Mono',monospace;
-    font-style: normal;
-    font-weight: 400;
-    font-display: swap;
-    src: url(../webfonts/Space-Mono/SpaceMono-Regular.ttf) format('truetype');
+  font-family: "Space Mono", monospace;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../webfonts/Space-Mono/SpaceMono-Regular.ttf) format("truetype");
 }
-
 
 /* Bold */
 
 @font-face {
-    font-family: 'Space Mono',monospace;
-    font-style: italic;
-    font-weight: 700;
-    font-display: swap;
-    src: url(../webfonts/Space-Mono/SpaceMono-BoldItalic.ttf) format('truetype');
+  font-family: "Space Mono", monospace;
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../webfonts/Space-Mono/SpaceMono-BoldItalic.ttf) format("truetype");
 }
-
-
