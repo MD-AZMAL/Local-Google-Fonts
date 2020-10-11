@@ -1063,3 +1063,36 @@
   font-display: swap;
   src: url(../webfonts/Space-Mono/SpaceMono-BoldItalic.ttf) format("truetype");
 }
+/*
+#
+#   Work Sans
+#
+*/
+
+/* Regular */
+
+@font-face {
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../webfonts/work-Sans/WorkSans-Regular.ttf) format("truetype");
+}
+
+/* Bold */
+
+@font-face {
+  font-family: "Work Sans";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../webfonts/work-Sans/WorkSans-Bold.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Work Sans";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../webfonts/work-Sans/WorkSans-ThinItalic.ttf) format("truetype");
+}
